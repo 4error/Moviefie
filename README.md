@@ -4,5 +4,5 @@ Movifie is a content-based movies recommendation system built using cosine simil
 Moviefie takes input of a movie name and suggest 5 closest recommendations, which is picked out by doing text vectorization on the tags category made up from the datasets value of (cast, crew, genres), and the NLP technique of Bag of words.
 The app is deployed on heroku.
 
-Working Project Link: https://moviefie.herokuapp.com/
+Working Project Link: https://moviefie.herokuapp.com/ \n
 DataSet Link: https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
